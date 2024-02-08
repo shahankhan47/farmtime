@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              Farmtime Organic Pvt Ltd{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -92,8 +92,8 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Free & Open Source Web UI Kit built over ReactJS &amp; MUI. Join over 1.6 million
-              developers around the world.
+              We at Farmtime Organic Pvt ltd are procuring our raw materials directly from local.
+              farmers. Our product consists of Makhana (Fox Nuts) & Popcorn (maize).
             </MKTypography>
           </Grid>
         </Container>

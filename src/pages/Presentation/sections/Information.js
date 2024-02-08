@@ -42,17 +42,17 @@ function Information() {
                 icon="touch_app"
                 title={
                   <>
-                    Feel the
+                    FarmTime
                     <br />
-                    Material Kit
+                    Organic
                   </>
                 }
-                description="All the MUI components that you need in a development have been re-design with the new look."
+                description="By adding our secret recipes and ingredients we are trying to merge the world of healthy snacking and tasty snacking so that you can enjoy everything guilt free without having adverse affect on your health"
               />
               <RotatingCardBack
                 image={bgBack}
-                title="Discover More"
-                description="You will save a lot of time going from prototyping to full-functional code because all elements are implemented."
+                title="FarmTime Organic"
+                description="Our aim is to develop a healthy conscious snacking habit as 90% of India is nutrition deficit and this is mostly due to our unhealthy eating habits."
                 action={{
                   type: "internal",
                   route: "/sections/page-sections/page-headers",
